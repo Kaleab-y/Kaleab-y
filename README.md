@@ -57,6 +57,20 @@ A tutorial-based machine learning experiment using historical Olympic data, Pyth
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Python" />
 
+## 📊 Lab stats
+
+<p align="center">
+  <a href="https://github.com/Kaleab-y?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=Kaleab-y&show_icons=true&hide_rank=true&card_width=495&bg_color=0D1424&title_color=48E4DC&text_color=C5D1E3&icon_color=B794F6&border_color=34425A&border_radius=16" width="495" alt="Kaleab's GitHub statistics: stars, commits, pull requests, issues and contributions" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kaleab-y?tab=overview"><img src="https://streak-stats.demolab.com/?user=Kaleab-y&background=0D1424&border=34425A&stroke=34425A&ring=B794F6&fire=48E4DC&currStreakNum=48E4DC&sideNums=C5D1E3&currStreakLabel=B794F6&sideLabels=C5D1E3&dates=9AAAC2&border_radius=16" width="495" alt="Kaleab's total contributions, current contribution streak and longest streak" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Kaleab-y?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kaleab-y&layout=compact&langs_count=8&card_width=495&bg_color=0D1424&title_color=48E4DC&text_color=C5D1E3&border_color=34425A&border_radius=16" width="495" alt="Language breakdown of Kaleab's public repositories" /></a>
+</p>
+
+<sub>These cards reflect publicly available GitHub activity. The language chart measures public repository code, so it does not represent my complete tech stack or private and organization work.</sub>
+
 ## ⚡ The build loop
 
 <img src="./assets/build-loop.svg" width="100%" alt="Explore → design → build → test → improve" />
@@ -66,7 +80,7 @@ The foundations matter too: my [ALX coursework](https://github.com/Kaleab-y/alx-
 <details>
 <summary>🎨 Design notes & credits</summary>
 
-An original Build Lab theme with animated circuit signals and a terminal cursor. Technology artwork uses [Skill Icons](https://github.com/tandpfun/skill-icons) and [Simple Icons through Shields.io](https://shields.io/). The animated headline uses [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg).
+An original Build Lab theme with animated circuit signals and a terminal cursor. Technology artwork uses [Skill Icons](https://github.com/tandpfun/skill-icons) and [Simple Icons through Shields.io](https://shields.io/). The animated headline uses [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg). Stats cards use [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 Inspired by the visual variety in [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and the grouped tool sections in [DenverCoder1's profile](https://github.com/DenverCoder1/DenverCoder1), adapted around my own projects and stack.
 
