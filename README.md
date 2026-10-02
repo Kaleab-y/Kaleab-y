@@ -12,8 +12,6 @@ Hi, I'm Kaleab. I build web and mobile apps, work on backend APIs, and experimen
 
 **[Olympic medal prediction](https://github.com/Kaleab-y/beginner_ml_project)** — A tutorial-based Python notebook project for working through historical data and medal predictions.
 
-My [ALX coursework](https://github.com/Kaleab-y/alx-low_level_programming) and [DSA practice](https://github.com/Kaleab-y/DSA_questions) are here too.
-
 ## What I work with
 
 <p><img src="https://skillicons.dev/icons?i=python,java,go,ts,js,c&theme=light" height="44" alt="Python, Java, Go, TypeScript, JavaScript and C" /></p>
@@ -31,7 +29,7 @@ Also: React Native, Expo, Playwright, Testing Library, pandas, NumPy, scikit-lea
 
 This is a snapshot of 14 reviewed projects, including public, private, and organization work. Each project counts once per selected implementation language. AI Tracker counts for both Python and TypeScript, so the percentages can add up to more than 100%. HTML and CSS are left out of this language comparison.
 
-The sample includes the public AI Tracker, Kulli, Olympic notebook, Task Manager, Agri-Smart, and two ALX coursework repositories, plus seven private or organization projects. Private project names are kept out of this profile.
+The sample includes my public projects and seven private or organization projects. Private project names are kept out of this profile.
 
 </details>
 
