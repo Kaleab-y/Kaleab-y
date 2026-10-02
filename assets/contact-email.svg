@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="44" viewBox="0 0 132 44" role="img" aria-labelledby="title">
+  <title id="title">Email Kaleab Yohannes</title>
+  <rect x=".5" y=".5" width="131" height="43" rx="5" fill="#F5F0E7" stroke="#D8CEBE"/>
+  <path d="M11 35Q52 34 120 35" fill="none" stroke="#D8CEBE" stroke-width=".7"/>
+  <g transform="translate(14 10)" fill="none" stroke="#AC6C45" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="1" y="4" width="22" height="16" rx="2"/>
+    <path d="m2 5 10 8 10-8"/>
+  </g>
+  <text x="49" y="28" fill="#31302B" font-family="Georgia,serif" font-size="17">Email</text>
+  <circle cx="116" cy="12" r="2" fill="#AC6C45"/>
+</svg>

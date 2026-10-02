@@ -2,7 +2,11 @@
 
 Hi, I'm Kaleab. I build web and mobile apps, work on backend APIs, and experiment with Python and AI tools. Some of my work is here; some lives in private repositories and team projects.
 
-[LinkedIn](https://www.linkedin.com/in/kaleabyohannes-h/) · [Repositories](https://github.com/Kaleab-y?tab=repositories)
+<p>
+  <a href="mailto:kaleabyohannes135@gmail.com" title="kaleabyohannes135@gmail.com"><img src="./assets/contact-email.svg" width="132" height="44" alt="Email Kaleab at kaleabyohannes135@gmail.com" /></a>
+  <a href="https://www.linkedin.com/in/kaleabyohannes-h/"><img src="./assets/contact-linkedin.svg" width="132" height="44" alt="Kaleab Yohannes on LinkedIn" /></a>
+  <a href="https://github.com/Kaleab-y?tab=repositories"><img src="./assets/contact-github.svg" width="132" height="44" alt="Browse Kaleab's GitHub repositories" /></a>
+</p>
 
 ## A few projects
 
