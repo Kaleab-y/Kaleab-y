@@ -66,10 +66,10 @@ A tutorial-based machine learning experiment using historical Olympic data, Pyth
   <a href="https://github.com/Kaleab-y?tab=overview"><img src="https://streak-stats.demolab.com/?user=Kaleab-y&background=0D1424&border=34425A&stroke=34425A&ring=B794F6&fire=48E4DC&currStreakNum=48E4DC&sideNums=C5D1E3&currStreakLabel=B794F6&sideLabels=C5D1E3&dates=9AAAC2&border_radius=16" width="495" alt="Kaleab's total contributions, current contribution streak and longest streak" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Kaleab-y?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kaleab-y&layout=compact&langs_count=8&card_width=495&bg_color=0D1424&title_color=48E4DC&text_color=C5D1E3&border_color=34425A&border_radius=16" width="495" alt="Language breakdown of Kaleab's public repositories" /></a>
+  <img src="./assets/technology-map.svg" width="495" alt="Technology map across Kaleab’s public, private and organization work: Python, Java, Go, TypeScript, JavaScript, C, and their frameworks" />
 </p>
 
-<sub>These cards reflect publicly available GitHub activity. The language chart measures public repository code, so it does not represent my complete tech stack or private and organization work.</sub>
+<sub>The activity card shows public repository stats; the streak includes anonymous private contributions. The technology map is curated from my public, private and organization projects and shows technologies used, rather than code percentages.</sub>
 
 ## ⚡ The build loop
 
