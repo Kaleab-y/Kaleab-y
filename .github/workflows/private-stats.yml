@@ -1,8 +1,6 @@
 name: Refresh aggregate profile stats
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '17 4 * * *'
 permissions:
   contents: write
 jobs:
