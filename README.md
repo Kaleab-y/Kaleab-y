@@ -1,87 +1,48 @@
-<p align="center">
-  <img src="./assets/build-lab.svg" width="100%" alt="Kaleab Yohannes — Build Lab. Interfaces. APIs. Mobile. AI." />
-</p>
+<img src="./assets/build-lab.svg" width="100%" alt="Kaleab Yohannes — notes and projects" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1000&color=48E4DC&center=true&vCenter=true&width=650&height=45&lines=Building+across+the+stack;From+React+interfaces+to+backend+APIs;Exploring+mobile+apps+and+AI+tools" alt="Building across the stack — React interfaces, backend APIs, mobile apps and AI tools" /></a>
-</p>
+Hi, I'm Kaleab. I build web and mobile apps, work on backend APIs, and experiment with Python and AI tools. Some of my work is here; some lives in private repositories and team projects.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaleabyohannes-h/"><img src="https://img.shields.io/badge/LinkedIn-LET'S_CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/Kaleab-y?tab=repositories"><img src="https://img.shields.io/badge/Projects-EXPLORE_THE_LAB-7855B9?style=for-the-badge&logo=github&logoColor=white" alt="Explore my public repositories" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/kaleabyohannes-h/) · [Repositories](https://github.com/Kaleab-y?tab=repositories)
 
-## 👋 Behind the builds
+## A few projects
 
-I'm **Kaleab**, a software developer working across web interfaces, backend services, mobile apps, and AI tooling. My work ranges from React dashboards and API integrations to Java backend simulations, Python experiments, and programming fundamentals.
+**[AI Tracker](https://github.com/Kaleab-y/AI-tracker)** — A local dashboard for seeing where AI requests spend tokens, time, and money. FastAPI on the backend, Next.js on the front.
 
-Some of that work lives in private and organization repositories. The toolbox below reflects that broader experience, while the projects here give you public code to explore.
+**[Kulli](https://github.com/Kaleab-y/Demo_Truck_delivery_app)** — A truck-delivery demo with trip requests, estimates, and separate customer and truck-owner dashboards. Built with Flask.
 
-## 🧰 My toolbox
+**[Olympic medal prediction](https://github.com/Kaleab-y/beginner_ml_project)** — A tutorial-based Python notebook project for working through historical data and medal predictions.
 
-### Languages
-<p><img src="https://skillicons.dev/icons?i=python,java,go,ts,js,c,html,css&theme=dark&perline=8" alt="Python, Java, Go, TypeScript, JavaScript, C, HTML and CSS" /></p>
+My [ALX coursework](https://github.com/Kaleab-y/alx-low_level_programming) and [DSA practice](https://github.com/Kaleab-y/DSA_questions) are here too.
 
-### Web & mobile
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" alt="React, Next.js and Vite" /> <img src="https://img.shields.io/badge/React_Native-202B42?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-202B42?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /></p>
+## What I work with
 
-### Backend & data
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,flask,mongodb,postgres,sqlite&theme=dark&perline=8" alt="Node.js, Express, Spring Boot, FastAPI, Flask, MongoDB, PostgreSQL and SQLite" /></p>
+<p><img src="https://skillicons.dev/icons?i=python,java,go,ts,js,c&theme=light" height="44" alt="Python, Java, Go, TypeScript, JavaScript and C" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,spring,fastapi,flask&theme=light&perline=8" height="44" alt="React, Next.js, Vite, Node.js, Express, Spring Boot, FastAPI and Flask" /></p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,sqlite,docker,git,githubactions,nginx,vitest&theme=light&perline=8" height="44" alt="MongoDB, PostgreSQL, SQLite, Docker, Git, GitHub Actions, Nginx and Vitest" /></p>
 
-### Build, test & deploy
-<p><img src="https://skillicons.dev/icons?i=git,githubactions,docker,nginx,linux,bash,maven,vitest&theme=dark&perline=8" alt="Git, GitHub Actions, Docker, Nginx, Linux, Bash, Maven and Vitest" /></p>
-<p><img src="https://img.shields.io/badge/Playwright-202B42?style=for-the-badge&logo=playwright&logoColor=2EAD33" alt="Playwright" /> <img src="https://img.shields.io/badge/Testing_Library-202B42?style=for-the-badge&logo=testinglibrary&logoColor=E33332" alt="Testing Library" /></p>
+Also: React Native, Expo, Playwright, Testing Library, pandas, NumPy, scikit-learn, and Jupyter.
 
-### AI & notebooks
-<p><img src="https://img.shields.io/badge/pandas-202B42?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> <img src="https://img.shields.io/badge/NumPy-202B42?style=for-the-badge&logo=numpy&logoColor=4DABCF" alt="NumPy" /> <img src="https://img.shields.io/badge/scikit--learn-202B42?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" /> <img src="https://img.shields.io/badge/Jupyter-202B42?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter" /></p>
+## By the numbers
 
-## 🚀 Open the lab
-
-### 🛰️ [AI Tracker](https://github.com/Kaleab-y/AI-tracker)
-A local AI telemetry platform: a FastAPI proxy and Next.js dashboard for exploring token usage, estimated costs, and request latency.
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,ts,sqlite,docker&theme=dark" height="36" alt="Python, FastAPI, Next.js, TypeScript, SQLite and Docker" />
-
-### 🚚 [Kulli · Truck Delivery Demo](https://github.com/Kaleab-y/Demo_Truck_delivery_app)
-A Flask application connecting customers with truck owners through trip requests, distance and price estimates, dashboards, and status updates.
-
-<img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css&theme=dark" height="36" alt="Python, Flask, SQLite, HTML and CSS" />
-
-### 🌱 [Agri-Smart](https://github.com/birukabza/Agri-Smart)
-A collaborative project in my public portfolio. Explore the repository for the implementation and team context.
-
-<img src="https://skillicons.dev/icons?i=ts&theme=dark" height="36" alt="TypeScript" />
-
-### 🧪 [Olympic Medal Prediction](https://github.com/Kaleab-y/beginner_ml_project)
-A tutorial-based machine learning experiment using historical Olympic data, Python notebooks, pandas, and scikit-learn.
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark" height="36" alt="Python" />
-
-## 📊 Lab stats
-
-<p align="center">
-  <a href="https://github.com/Kaleab-y?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=Kaleab-y&show_icons=true&hide_rank=true&card_width=495&bg_color=0D1424&title_color=48E4DC&text_color=C5D1E3&icon_color=B794F6&border_color=34425A&border_radius=16" width="495" alt="Kaleab's GitHub statistics: stars, commits, pull requests, issues and contributions" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kaleab-y?tab=overview"><img src="https://streak-stats.demolab.com/?user=Kaleab-y&background=0D1424&border=34425A&stroke=34425A&ring=B794F6&fire=48E4DC&currStreakNum=48E4DC&sideNums=C5D1E3&currStreakLabel=B794F6&sideLabels=C5D1E3&dates=9AAAC2&border_radius=16" width="495" alt="Kaleab's total contributions, current contribution streak and longest streak" /></a>
-</p>
-<p align="center">
-  <img src="./assets/technology-map.svg" width="495" alt="Technology map across Kaleab’s public, private and organization work: Python, Java, Go, TypeScript, JavaScript, C, and their frameworks" />
-</p>
-
-<sub>The activity card shows public repository stats; the streak includes anonymous private contributions. The technology map is curated from my public, private and organization projects and shows technologies used, rather than code percentages.</sub>
-
-## ⚡ The build loop
-
-<img src="./assets/build-loop.svg" width="100%" alt="Explore → design → build → test → improve" />
-
-The foundations matter too: my [ALX coursework](https://github.com/Kaleab-y/alx-low_level_programming) and [data structures & algorithms practice](https://github.com/Kaleab-y/DSA_questions) document the work behind the applications.
+<img src="./assets/technology-map.svg" width="600" alt="Project-based language percentages across 14 reviewed projects: TypeScript 50%, Python 28.6%, Java, Go, JavaScript and C 7.1% each" />
 
 <details>
-<summary>🎨 Design notes & credits</summary>
+<summary>How I counted these</summary>
 
-An original Build Lab theme with animated circuit signals and a terminal cursor. Technology artwork uses [Skill Icons](https://github.com/tandpfun/skill-icons) and [Simple Icons through Shields.io](https://shields.io/). The animated headline uses [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg). Stats cards use [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
+This is a snapshot of 14 reviewed projects, including public, private, and organization work. Each project counts once per selected implementation language. AI Tracker counts for both Python and TypeScript, so the percentages can add up to more than 100%. HTML and CSS are left out of this language comparison.
 
-Inspired by the visual variety in [Awesome GitHub Profile READMEs](https://github.com/abhisheknaiidu/awesome-github-profile-readme) and the grouped tool sections in [DenverCoder1's profile](https://github.com/DenverCoder1/DenverCoder1), adapted around my own projects and stack.
+The sample includes the public AI Tracker, Kulli, Olympic notebook, Task Manager, Agri-Smart, and two ALX coursework repositories, plus seven private or organization projects. Private project names are kept out of this profile.
+
+</details>
+
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=Kaleab-y&show_icons=true&hide_rank=true&card_width=495&bg_color=F5F0E7&title_color=535D52&text_color=31302B&icon_color=AC6C45&border_color=D8CEBE&border_radius=5" width="495" alt="GitHub activity in public repositories" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Kaleab-y&background=F5F0E7&border=D8CEBE&stroke=D8CEBE&ring=6D806B&fire=AC6C45&currStreakNum=31302B&sideNums=31302B&currStreakLabel=535D52&sideLabels=535D52&dates=777467&border_radius=5" width="495" alt="Contribution totals and streaks, including anonymous private contributions" /></p>
+
+<sub>Activity totals above cover public repositories; the streak card includes anonymous private contributions.</sub>
+
+<details>
+<summary>Visual credits</summary>
+
+Original notebook artwork. Logos from [Skill Icons](https://github.com/tandpfun/skill-icons); activity cards from [GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended) and [Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 </details>
