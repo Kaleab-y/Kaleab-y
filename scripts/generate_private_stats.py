@@ -40,6 +40,8 @@ def card(title, rows, footer):
 
 
 def main():
+    if not os.environ.get("STATS_TOKEN", "").strip():
+        raise RuntimeError("Add a repository Actions secret named STATS_TOKEN in Kaleab-y/Kaleab-y.")
     now = dt.datetime.now(dt.timezone.utc)
     date = now.date().isoformat()
     data = graphql('''query($login:String!, $from:DateTime!, $to:DateTime!) {
