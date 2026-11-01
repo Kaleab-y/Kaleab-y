@@ -1,1 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-labelledby="title desc"><title id="title">Kaleab's build loop</title><desc id="desc">Explore, design, build, test, improve. A moving signal connects each step.</desc><rect width="1000" height="130" rx="16" fill="#0d1424"/><path d="M100 57H900" stroke="#34425a" stroke-width="3"/><g font-family="ui-monospace,Consolas,monospace" font-size="16" text-anchor="middle" fill="#c5d1e3"><circle cx="100" cy="57" r="15" fill="#1b2540" stroke="#48e4dc" stroke-width="2"/><text x="100" y="104">EXPLORE</text><circle cx="300" cy="57" r="15" fill="#1b2540" stroke="#b794f6" stroke-width="2"/><text x="300" y="104">DESIGN</text><circle cx="500" cy="57" r="15" fill="#1b2540" stroke="#48e4dc" stroke-width="2"/><text x="500" y="104">BUILD</text><circle cx="700" cy="57" r="15" fill="#1b2540" stroke="#b794f6" stroke-width="2"/><text x="700" y="104">TEST</text><circle cx="900" cy="57" r="15" fill="#1b2540" stroke="#48e4dc" stroke-width="2"/><text x="900" y="104">IMPROVE</text></g><circle r="5" fill="#48e4dc"><animateMotion dur="5s" repeatCount="indefinite" path="M100 57H900"/></circle></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-labelledby="title desc">
+  <title id="title">Kaleab's build loop</title>
+  <desc id="desc">Explore, design, build, test, refine. A moving terracotta signal connects each stage.</desc>
+  <rect width="1000" height="110" rx="6" fill="#161B22" stroke="#30363D"/>
+  <!-- Connecting line -->
+  <path d="M120 46H880" stroke="#30363D" stroke-width="2"/>
+  <path d="M120 46H880" stroke="#30363D" stroke-width="1" stroke-dasharray="4 4"/>
+  <!-- Stages -->
+  <g font-family="ui-monospace,Consolas,monospace" font-size="12" font-weight="600" letter-spacing="2" text-anchor="middle" fill="#C9D1D9">
+    <!-- Explore -->
+    <circle cx="120" cy="46" r="14" fill="#161B22" stroke="#749B93" stroke-width="2"/>
+    <circle cx="120" cy="46" r="4" fill="#749B93"/>
+    <text x="120" y="84">EXPLORE</text>
+    
+    <!-- Design -->
+    <circle cx="310" cy="46" r="14" fill="#161B22" stroke="#E58550" stroke-width="2"/>
+    <circle cx="310" cy="46" r="4" fill="#E58550"/>
+    <text x="310" y="84">DESIGN</text>
+    
+    <!-- Build -->
+    <circle cx="500" cy="46" r="14" fill="#161B22" stroke="#749B93" stroke-width="2"/>
+    <circle cx="500" cy="46" r="4" fill="#749B93"/>
+    <text x="500" y="84">BUILD</text>
+    
+    <!-- Test -->
+    <circle cx="690" cy="46" r="14" fill="#161B22" stroke="#E58550" stroke-width="2"/>
+    <circle cx="690" cy="46" r="4" fill="#E58550"/>
+    <text x="690" y="84">TEST</text>
+    
+    <!-- Refine -->
+    <circle cx="880" cy="46" r="14" fill="#161B22" stroke="#749B93" stroke-width="2"/>
+    <circle cx="880" cy="46" r="4" fill="#749B93"/>
+    <text x="880" y="84">REFINE</text>
+  </g>
+  <!-- Moving terracotta signal -->
+  <circle r="5" fill="#E58550">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M120 46H880"/>
+  </circle>
+</svg>

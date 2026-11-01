@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="44" viewBox="0 0 132 44" role="img" aria-labelledby="title">
+  <title id="title">View Kaleab Yohannes's Resume</title>
+  <rect x=".5" y=".5" width="131" height="43" rx="5" fill="#161B22" stroke="#30363D"/>
+  <path d="M11 35Q52 34 120 35" fill="none" stroke="#21262D" stroke-width=".7"/>
+  <g transform="translate(14 10)" fill="none" stroke="#E58550" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 2h12l5 5v14a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2z"/>
+    <polyline points="15 2 15 7 20 7"/>
+    <line x1="5" y1="12" x2="13" y2="12"/>
+    <line x1="5" y1="16" x2="15" y2="16"/>
+  </g>
+  <text x="46" y="28" fill="#F0F6FC" font-family="Georgia,serif" font-size="17">Resume</text>
+  <circle cx="116" cy="12" r="2" fill="#E58550"/>
+</svg>
